@@ -32,6 +32,8 @@
 
 <br><br>
 
+
+
 <div>
 🥰 More ?🥰
 <br>
@@ -43,6 +45,7 @@
 </div>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eebbni&layout=compact&theme=dracula)](https://github.com/eebbni)
 </div>
 
 
