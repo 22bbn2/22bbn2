@@ -12,11 +12,16 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Editplus-db043e?style=flat-square&logo=&logoColor=white"/>
 </p>
 
 <h3 align="center">Contact Me 📢</h3>
@@ -29,5 +34,5 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eebbni&show_icons=true&theme=radical) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eebbni&layout=compact&theme=dracula)](https://github.com/eebbni)
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+<!-- ![footer](https://capsule-render.vercel.app/api?section=footer) -->
 </div>
