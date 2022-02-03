@@ -31,11 +31,10 @@
   <a href="https://blog.naver.com/engeliss72" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="https://velog.io/@eebbni" target="_blank"><img src="https://img.shields.io/badge/Velog-34E0A1?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </p>
-  
-<p align="center">
-  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=engeliss"/>
-</p>
-  
+
+ <div align="center">
+  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=engeliss"/>
+  </div>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eebbni&show_icons=true&theme=radical) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eebbni&layout=compact&theme=dracula)](https://github.com/eebbni)
 
